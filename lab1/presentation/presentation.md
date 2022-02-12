@@ -56,7 +56,7 @@ header-includes:
 - \floatplacement{figure}{H} # keep figures where there are in the text
 ---
 
-# Результат выполнения лабораторной работы №1  
+# Защита лабораторной работы №1  
 ## Цель  
 Цель данной работы является изучение основ git.  
 
