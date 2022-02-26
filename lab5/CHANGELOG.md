@@ -1,0 +1,48 @@
+-lab4
+-lab3
+-lab3
+-lab5
+-lab6
+-lab6
+-lab5
+-lab4
+-Added stage 1
+-Merge branch 'main' of https://github.com/iesdai/MatMod
+-Text
+-lab3
+-Added report
+-Added presentation
+-from md to pdf
+-from md to pdf
+-Screen zip
+-Screen zip
+-Screen
+-Added presentation
+-Added Makefile
+-Added Makefile
+-From md to pdf
+-Screen
+-Screen
+-Added report
+-Graph of the second case
+-Graph of the first case
+-Simulation parameter screen
+-Code screen
+-Code
+-lab2
+-lab2
+-lab2
+-lab2
+-Added reprot
+-from md to docx
+-Added reprot
+-report
+-Added Makefile
+-Code
+-Merge branch 'main' of https://github.com/iesdai/MatMod
+-lab2
+-From report.md to report.docx
+-screenshots
+-lab2
+-lab1
+-lab1
